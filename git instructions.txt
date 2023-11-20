@@ -1,0 +1,4 @@
+Setup: git init
+Salvare versiune
+git add .
+git coomit -m "Descriere versiune"
