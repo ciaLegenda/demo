@@ -1,4 +1,11 @@
-Setup: git init
+Setup:
+git init
+
 Salvare versiune
 git add .
-git coomit -m "Descriere versiune"
+git coomit -m "Descriereg versiune"
+
+Upload giihub
+git remote add origin *link de pe github*
+
+'
